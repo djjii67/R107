@@ -1,14 +1,14 @@
-debut = int(input("Heure de début : "))
+debut = int(input("Heure de debut : "))
 fin = int(input("Heure de fin : "))
 
 if debut < 0 or debut > 24 or fin < 0 or fin > 24:
-    print("Les heures doivent être comprises entre 0 et 24 !")
+    print("Les heures doivent etre comprises entre 0 et 24 !")
 
 elif debut == fin:
-    print("Attention ! l’heure de fin est identique à l’heure de début.")
+    print("Attention ! l’heure de fin est identique à l’heure de debut.")
 
 elif debut > fin:
-    print("Attention ! le début de la location est après la fin ...")
+    print("Attention ! le debut de la location est apres la fin ...")
 
 else:
     total_prix = 0
