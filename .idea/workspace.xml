@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a45841b-f2fa-4375-aa49-dce3f8244183" name="Changes" comment="maj">
-      <change afterPath="$PROJECT_DIR$/TP3/Exo2PT3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3/Exo2PT4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP3/Exo3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP3/Exo3PT4.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +53,8 @@
     "Python.Exo1.executor": "Run",
     "Python.Exo2PT2.executor": "Run",
     "Python.Exo2PT3.executor": "Run",
+    "Python.Exo3.executor": "Run",
+    "Python.Exo3PT4.executor": "Run",
     "Python.Exo5.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -90,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1791549418823</updated>
       <workItem from="1791549419829" duration="4203000" />
-      <workItem from="1794573628479" duration="3019000" />
+      <workItem from="1794573628479" duration="5695000" />
     </task>
     <task id="LOCAL-00001" summary="maj">
       <option name="closed" value="true" />
@@ -140,7 +145,31 @@
       <option name="project" value="LOCAL" />
       <updated>1794575763407</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="maj">
+      <option name="closed" value="true" />
+      <created>1794576659084</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1794576659084</updated>
+    </task>
+    <task id="LOCAL-00008" summary="maj">
+      <option name="closed" value="true" />
+      <created>1794576845820</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1794576845820</updated>
+    </task>
+    <task id="LOCAL-00009" summary="maj">
+      <option name="closed" value="true" />
+      <created>1794577698013</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1794577698013</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +182,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Favoris$main.coverage" NAME="main Coverage Results" MODIFIED="1791549653342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/R107$Exo2PT2.coverage" NAME="Exo2PT2 Coverage Results" MODIFIED="1794575737250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP3" />
-    <SUITE FILE_PATH="coverage/R107$Exo2PT3.coverage" NAME="Exo2PT3 Coverage Results" MODIFIED="1794576550412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP3" />
+    <SUITE FILE_PATH="coverage/R107$Exo2PT3.coverage" NAME="Exo2PT3 Coverage Results" MODIFIED="1794578334643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP3" />
     <SUITE FILE_PATH="coverage/R107$Exo1.coverage" NAME="Exo1 Coverage Results" MODIFIED="1794575339455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP3" />
+    <SUITE FILE_PATH="coverage/R107$Exo3PT4.coverage" NAME="Exo3PT4 Coverage Results" MODIFIED="1794578174679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP3" />
+    <SUITE FILE_PATH="coverage/R107$Exo3.coverage" NAME="Exo3 Coverage Results" MODIFIED="1794579960536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP3" />
   </component>
 </project>
