@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a45841b-f2fa-4375-aa49-dce3f8244183" name="Changes" comment="maj">
-      <change beforePath="$PROJECT_DIR$/TP3/Exo6.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP3/Exo6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1791549418823</updated>
       <workItem from="1791549419829" duration="4203000" />
-      <workItem from="1794573628479" duration="8610000" />
+      <workItem from="1794573628479" duration="10059000" />
     </task>
     <task id="LOCAL-00001" summary="maj">
       <option name="closed" value="true" />
@@ -192,7 +192,31 @@
       <option name="project" value="LOCAL" />
       <updated>1794582717902</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="maj">
+      <option name="closed" value="true" />
+      <created>1794583004049</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1794583004049</updated>
+    </task>
+    <task id="LOCAL-00014" summary="maj">
+      <option name="closed" value="true" />
+      <created>1794583058366</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1794583058366</updated>
+    </task>
+    <task id="LOCAL-00015" summary="maj">
+      <option name="closed" value="true" />
+      <created>1794583181700</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1794583181700</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +229,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Favoris$main.coverage" NAME="main Coverage Results" MODIFIED="1791549653342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/R107$Exo2PT2.coverage" NAME="Exo2PT2 Coverage Results" MODIFIED="1794575737250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP3" />
-    <SUITE FILE_PATH="coverage/R107$Exo6.coverage" NAME="Exo6 Coverage Results" MODIFIED="1794582688437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP3" />
+    <SUITE FILE_PATH="coverage/R107$Exo6.coverage" NAME="Exo6 Coverage Results" MODIFIED="1794583135432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP3" />
     <SUITE FILE_PATH="coverage/R107$Exo4.coverage" NAME="Exo4 Coverage Results" MODIFIED="1794582202685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP3" />
     <SUITE FILE_PATH="coverage/R107$Exo5.coverage" NAME="Exo5 Coverage Results" MODIFIED="1794582237252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP3" />
     <SUITE FILE_PATH="coverage/R107$Exo2PT3.coverage" NAME="Exo2PT3 Coverage Results" MODIFIED="1794578334643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP3" />
