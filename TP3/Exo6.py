@@ -1,16 +1,23 @@
-debut = int(input("Entrez l'heure de debut (entre 0 et 24) : "))
-fin = int(input("Entrez l'heure de fin (entre 0 et 24) : "))
+debut = int(input("Heure de début : "))
+fin = int(input("Heure de fin : "))
 
-if debut < 0 or debut > 24 or fin < 0 or fin > 24 or debut >= fin:
-    print("Erreur : Les heures saisies sont incorrectes ou la fin précède le début.")
+if debut < 0 or debut > 24 or fin < 0 or fin > 24:
+    print("Les heures doivent être comprises entre 0 et 24 !")
+
+elif debut == fin:
+    print("Attention ! l’heure de fin est identique à l’heure de début.")
+
+elif debut > fin:
+    print("Attention ! le début de la location est après la fin ...")
+
 else:
     total_prix = 0
 
     for heure in range(debut, fin):
-        if (heure >= 0 and heure < 7) or (heure >= 17 and heure < 24):
-            total_prix = total_prix + 1
+        if (0 <= heure < 7) or (17 <= heure < 24):
+            total_prix += 1
         else:
-            total_prix = total_prix + 2
+            total_prix += 2
 
-    print(f"\nDuree de la location : de {debut}h a {fin}h")
-    print(f"Le montant total a payer est de : {total_prix} euros.")
+
+    print(f"Le montant de la location est de {total_prix} euros.")
