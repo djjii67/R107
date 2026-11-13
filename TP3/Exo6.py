@@ -1,23 +1,30 @@
-debut = int(input("Heure de debut : "))
-fin = int(input("Heure de fin : "))
+debut = int(input("Donnez l’heure de debut de la location (un entier) : "))
+fin = int(input("Donnez l’heure de fin de la location (un entier) : "))
 
 if debut < 0 or debut > 24 or fin < 0 or fin > 24:
-    print("Les heures doivent etre comprises entre 0 et 24 !")
+    print("Les heures doivent être comprises entre 0 et 24 !")
 
 elif debut == fin:
-    print("Attention ! l’heure de fin est identique à l’heure de debut.")
+    print("Attention ! l’heure de fin est identique à l’heure de début.")
 
 elif debut > fin:
-    print("Attention ! le debut de la location est apres la fin ...")
+    print("Attention ! le début de la location est après la fin ...")
 
 else:
-    total_prix = 0
+    nb_heures_tarif1 = 0
+    nb_heures_tarif2 = 0
 
     for heure in range(debut, fin):
         if (0 <= heure < 7) or (17 <= heure < 24):
-            total_prix += 1
+            nb_heures_tarif1 += 1
         else:
-            total_prix += 2
+            nb_heures_tarif2 += 1
 
+    total_prix = (nb_heures_tarif1 * 1.0) + (nb_heures_tarif2 * 2.0)
 
-    print(f"Le montant de la location est de {total_prix} euros.")
+    print("Vous avez loue votre velo pendant")
+    if nb_heures_tarif1 > 0:
+        print(f"{nb_heures_tarif1} heure(s) au tarif horaire de 1.0 euro(s)")
+    if nb_heures_tarif2 > 0:
+        print(f"{nb_heures_tarif2} heure(s) au tarif horaire de 2.0 euro(s)")
+    print(f"Le montant total a payer est de {total_prix} euro(s).")
