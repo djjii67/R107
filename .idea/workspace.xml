@@ -32,7 +32,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/djjii67/R107.git",
-    "accountId": "7ede10bd-e568-4849-a341-a0f8b0820ad5"
+    "accountId": "755d2062-dbc2-433b-9fba-d26dc6bcb078"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -44,33 +44,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Exo1.executor": "Run",
-    "Python.Exo2PT2.executor": "Run",
-    "Python.Exo2PT3.executor": "Run",
-    "Python.Exo3.executor": "Run",
-    "Python.Exo3PT4.executor": "Run",
-    "Python.Exo4.executor": "Run",
-    "Python.Exo5.executor": "Run",
-    "Python.Exo6.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "U:/Favoris/TP1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Exo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo2PT2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo2PT3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo3PT4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exo6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;U:/Favoris/TP1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="U:\Favoris\TP1" />
@@ -95,6 +95,7 @@
       <updated>1791549418823</updated>
       <workItem from="1791549419829" duration="4203000" />
       <workItem from="1794573628479" duration="10059000" />
+      <workItem from="1795073932895" duration="947000" />
     </task>
     <task id="LOCAL-00001" summary="maj">
       <option name="closed" value="true" />
