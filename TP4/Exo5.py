@@ -14,9 +14,9 @@ else:
     bissextile = False
 
 if annee < 1:
-    print("Date invalide : l'année doit être supérieure ou égale à 0001.")
+    print("Date invalide : l'année doit être superieure ou egale à 0001.")
 elif mois < 1 or mois > 12:
-    print("Date invalide : le mois doit être compris entre 01 et 12.")
+    print("Date invalide : le mois doit etre compris entre 01 et 12.")
 else:
     if mois == 2:
         if bissextile:
@@ -29,12 +29,12 @@ else:
         joursMois = 31
 
     if jour < 1:
-        print("Date invalide : le jour doit être supérieur ou égal à 01.")
+        print("Date invalide : le jour doit etre superieur ou egal à 01.")
     elif jour > joursMois:
         if mois == 2 and not bissextile:
-            print("Date invalide : en", annee, "(année commune), février n'a que 28 jours.")
+            print("Date invalide : en", annee, "(annee commune), fevrier n'a que 28 jours.")
         elif mois == 2:
-            print("Date invalide : en", annee, "(année bissextile), février n'a que 29 jours.")
+            print("Date invalide : en", annee, "(annee bissextile), fevrier n'a que 29 jours.")
         else:
             print("Date invalide : ce mois n'a que", joursMois, "jours.")
     else:

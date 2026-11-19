@@ -15,4 +15,4 @@ for i in range(len(liste)):
         nbMax = compteur
         elementMax = element
 
-print("Le nombre le plus fréquent dans la liste est le :", elementMax, "(" + str(nbMax) + " x)")
+print("Le nombre le plus frequent dans la liste est le :", elementMax, "(" + str(nbMax) + " x)")
