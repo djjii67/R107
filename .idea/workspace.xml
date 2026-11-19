@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a45841b-f2fa-4375-aa49-dce3f8244183" name="Changes" comment="maj">
-      <change afterPath="$PROJECT_DIR$/TP4/Exo4PT1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP4/Exo4PT2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP4/Exo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP4/Exo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/Exo5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +97,7 @@
       <updated>1791549418823</updated>
       <workItem from="1791549419829" duration="4203000" />
       <workItem from="1794573628479" duration="10059000" />
-      <workItem from="1795073932895" duration="4322000" />
+      <workItem from="1795073932895" duration="5364000" />
     </task>
     <task id="LOCAL-00001" summary="maj">
       <option name="closed" value="true" />
@@ -238,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1795075853572</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="maj">
+      <option name="closed" value="true" />
+      <created>1795078767131</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1795078767131</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
