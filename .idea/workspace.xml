@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a45841b-f2fa-4375-aa49-dce3f8244183" name="Changes" comment="maj">
-      <change afterPath="$PROJECT_DIR$/TP4/Exo7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/Exo8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP4/Exo4PT1.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP4/Exo4PT1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP4/Exo4PT2.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP4/Exo4PT2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP4/Exo5.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP4/Exo5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +30,12 @@
     &quot;assignee&quot;: &quot;djjii67&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/djjii67/R107.git",
-    "accountId": "755d2062-dbc2-433b-9fba-d26dc6bcb078"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/djjii67/R107.git&quot;,
+    &quot;accountId&quot;: &quot;755d2062-dbc2-433b-9fba-d26dc6bcb078&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1,
   &quot;fromUser&quot;: false
@@ -62,6 +59,7 @@
     "Python.Exo5.executor": "Run",
     "Python.Exo6.executor": "Run",
     "Python.Exo7.executor": "Run",
+    "Python.Exo8.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -102,7 +100,8 @@
       <updated>1791549418823</updated>
       <workItem from="1791549419829" duration="4203000" />
       <workItem from="1794573628479" duration="10059000" />
-      <workItem from="1795073932895" duration="6597000" />
+      <workItem from="1795073932895" duration="7224000" />
+      <workItem from="1795084530021" duration="390000" />
     </task>
     <task id="LOCAL-00001" summary="maj">
       <option name="closed" value="true" />
@@ -256,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1795080551131</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="maj">
+      <option name="closed" value="true" />
+      <created>1795081576218</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1795081576218</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
